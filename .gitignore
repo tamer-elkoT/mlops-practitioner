@@ -1,0 +1,9 @@
+.venv/
+data/
+models/
+.python-version
+prodml.egg-info/
+mlartifacts/
+*.db
+__pycache__/
+.ipynb_checkpoints/
